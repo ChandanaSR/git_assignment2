@@ -12,7 +12,7 @@ public class difference {
         y = sc.nextInt();
 
         sc.close();
-        diff = x - y;
+        diff = 2x - 2y;
         System.out.println("Sum of these numbers: "+diff);
     }
 }

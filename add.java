@@ -12,7 +12,7 @@ public class add {
         y = sc.nextInt();
         
         sc.close();
-        sum = x + y;
+        sum = 2x + 2y;
         System.out.println("Sum of these numbers: "+sum);
     }
 }
